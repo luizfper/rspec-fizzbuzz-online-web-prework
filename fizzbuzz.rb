@@ -9,7 +9,6 @@ def fizzbuzz(num)
       fb =""
     end
     fb=fb+"Buzz"
-    fb=fb.capitalize
   end
   fb
 end
