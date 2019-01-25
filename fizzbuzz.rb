@@ -7,7 +7,7 @@ def fizzbuzz(num)
   if num%5==0
     if fb == nil
       fb =""
-    end  
+    end
     fb=fb+"Buzz"
     fb=fb.capitalize
   end
